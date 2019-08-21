@@ -1,0 +1,259 @@
+[
+  {
+    "Name": "Full Set",
+    "Services": [
+      {
+        "tag": "cat-full",
+        "Service": "Acrylic ",
+        "Regular": "$37/$27",
+        "Description": "Natural powder & Natural Tip "
+      },
+      {
+        "tag": "cat-full",
+        "Service": "Acrylic White Tip",
+        "Regular": "$40/$27",
+        "Description": "Natural powder with White Tip "
+      },
+      {
+        "tag": "cat-full",
+        "Service": "Pink & White Powder",
+        "Regular": "$55/$45",
+        "Description": "Pink & White powder with gel coat "
+      },
+      {
+        "tag": "cat-full",
+        "Service": "Pink & White Gel",
+        "Regular": "$60/$50",
+        "Description": "Liquid Gel Pink & White"
+      },
+      {
+        "tag": "cat-full",
+        "Service": "Gel color full set ",
+        "Regular": "$55/$45",
+        "Description": "Clear Tip & clear liquid Gel "
+      },
+      {
+        "tag": "cat-full",
+        "Service": "Gel Color",
+        "Regular": "$50/$40",
+        "Description": "Acrylic with gel color "
+      }
+    ]
+  },
+  {
+  "Name": "Fill In",
+  "Services": [
+    {
+      "tag": "cat-fill",
+      "Service": "Acrylic ",
+      "Regular": "$37/$27",
+      "Description": "Natural powder & Natural Tip "
+    },
+    {
+      "tag": "cat-fill",
+      "Service": "Acrylic White Tip",
+      "Regular": "$40/$27",
+      "Description": "Natural powder with White Tip "
+    },
+    {
+      "tag": "cat-fill",
+      "Service": "Pink & White Powder",
+      "Regular": "$55/$45",
+      "Description": "Pink & White powder with gel coat "
+    },
+    {
+      "tag": "cat-fill",
+      "Service": "Pink & White Gel",
+      "Regular": "$60/$50",
+      "Description": "Liquid Gel Pink & White"
+    },
+    {
+      "tag": "cat-fill",
+      "Service": "Gel color full set ",
+      "Regular": "$55/$45",
+      "Description": "Clear Tip & clear liquid Gel "
+    },
+    {
+      "tag": "cat-fill",
+      "Service": "Gel Color",
+      "Regular": "$50/$40",
+      "Description": "Acrylic with gel color "
+    }
+  ]
+},
+  {
+    "Name": "Manicure",
+    "Services": [
+      {
+        "tag": "cat-mani",
+        "Service": "Regular Manicure ",
+        "Regular": "$17.00"
+      },
+      {
+        "tag": "cat-mani",
+        "Service": "Gel Manicure ",
+        "Regular": "$33.00"
+      },
+      {
+        "tag": "cat-mani",
+        "Service": "Pedicure & Manicure ",
+        "Regular": "$45.00"
+      }
+    ]
+  },
+  {
+
+    "Name": "Pedicure",
+    "Services": [
+      {
+        "tag": "cat-pedi",
+        "Service": "Classic Spa Pedicure ",
+        "Description": "A refreshing soak * Nail re-shape and trim cuticle * heel exfoliation * Herbal lotion massage & towel treatment. Add $5 for Cullus remove or Sugat scrub "
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Essential Pedicure",
+        "Regular": "$38.00",
+        "Description": "A refreshing soak * Nail re-shape and trim cuticle * Callus remover * heel exfoliation * Gentle exfoliation with Salt glow gel exfoliate or Citrus Sugar scrub * 10 mins Herbal lotion or Cucumber heel therapy massage * Hot stone and towel treatment. "
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Royal Pedicure ",
+        "Regular": "$45.00",
+        "Description": "A refreshing soak * Nail re-shape and trim cuticle * Callus remover * heel exfoliation * Gentle exfoliation with Citrus Sugar scrub or salt glow gel exfoliate * Paraffin dip for rehydrate and detoxify * 12 mins Cucumber heel therapy massage, Hot stone & towel treatment. "
+      },
+      {
+        "Service": "Volcano Spa Pedicure ",
+        "Regular": "$57.00",
+        "Description": "*All products stated below are Certified organic brand* Detox Volcano Crystal with moisturizing aloe Vera and mood- enhancing fragrance, to accelerate the detox activator. Callus remove and exfoliating with sugar scrub clears away dead skin and reveals newer looking skin. Collagen Cream Mask cleanses and tightens pores. Collagen starts nourish skin for greater elasticity and beauty. And then 20 minutes Massage with Collagen massage Lotion for deeply moisturizes as the collagen replenishes skin for a beautiful, youthful glow with a silky soft finish. "
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Ultimate Spa Pedicure",
+        "Regular": "$62.00",
+        "Description": "*Lavender products, Dragon Fruit flavors are certified organic brand by BCL* Rosemary Mint-Hydro-therapy-salt * Callus remover * heel exfoliation and Sugar scrub exfoliating skin with natural sugar suspended in a precious blend of certified organic brand. Shea butter mint mask then Nail re-shape and cuticle trim while Shea butter mint mask soften skin then apply Warm paraffin for rehydrate and detoxify and 25 minutes massage with Hydration/Dragon fruit lotion extract to deliver vitamins and antioxidants then hot stone and towel treatment. "
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Premium Jelly spa Pedicure",
+        "Regular": "$75.00",
+        "Description": "*Jelly Aloe Vera is certified organic brand by USL US SKIN LAB* Aloe Vera is renowned across the world for its many skincare benefit. Due to its nutritional and antioxidant properties, it repairs and renews. Aloe Vera high content of beta-carotene, Vitamins C and E improves the skins firmness and leaves it smooth and hydrated. Jelly Pedi Aloe Vera will exfoliate the legs and feet while leaving it supple and moisturized. You will enjoy 25 mins massage therapy of this 5 step Aloe Vera. "
+      }
+    ]
+  },
+  {
+    "Name": "Children Under 10",
+    "Services": [
+      {
+        "tag": "cat-pedi",
+        "Service": "Spa Pedicure ",
+        "Regular": "$20.00"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Manicure",
+        "Regular": "$12.00"
+      }
+    ]
+  },
+  {
+    "Name": "Waxing",
+    "Services": [
+      {
+        "tag": "cat-pedi",
+        "Service": "Chest ",
+        "Regular": "$30 & up"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Full Back ",
+        "Regular": "$40 & up"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Upper Lips",
+        "Regular": "$8.00"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Eye Brow ",
+        "Regular": "$12.00",
+        "Description": ""
+      },
+      {
+        "Service": "Chin ",
+        "Regular": "$10.00"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Under Arm ",
+        "Regular": "$20 & up"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Bikini ",
+        "Regular": "$30 & up"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Brazilian Bikini ",
+        "Regular": "$50 & up"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Half Arm ",
+        "Regular": "$20 & up"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Half Leg ",
+        "Regular": "$30 & up"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Full Arm ",
+        "Regular": "$40 & up"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Full Leg ",
+        "Regular": "$50 & up"
+      },
+      {
+        "Service": "Full Face ",
+        "Regular": "$40 & up"
+      }
+    ]
+  },
+  {
+    "Name": "Additional Services",
+    "Services": [
+      {
+        "tag": "cat-pedi",
+        "Service": "Gel color apply for pedicure",
+        "Regular": "$15.00"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Gel Chrome for gel manicure ",
+        "Regular": "$15.00"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Gel Coat on Acrylic Nail ",
+        "Regular": "$10.00"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "French Color change ",
+        "Regular": "$10.00"
+      },
+      {
+        "tag": "cat-pedi",
+        "Service": "Paraffin Wax...Hand ",
+        "Regular": "$10.00"
+      }
+    ]
+  }
+]
+

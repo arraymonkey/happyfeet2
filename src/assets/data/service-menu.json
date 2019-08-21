@@ -1,0 +1,220 @@
+[
+  {
+    "Name": "Full Set",
+    "Services": [
+      {
+        "Service": "Acrylic ",
+        "Regular": "$25.00+"
+      },
+      {
+        "Service": "Acrylic White Tip",
+        "Regular": "$30.00+"
+      },
+      {
+        "Service": "Pink & White Powder",
+        "Regular": "45.00+"
+      },
+      {
+        "Service": "Pink & White SNS",
+        "Regular": "$55.00+"
+      },
+      {
+        "Service": "Color Powder",
+        "Regular": "$45.00"
+      },
+      {
+        "Service": "LIQUID Gel w/Color",
+        "Regular": "45.00+"
+      },
+      {
+        "Service": "PINK & WHITE LIQUID GEL",
+        "Regular": "55.00+"
+      },
+      {
+        "Service": "Silk Wraps",
+        "Regular": "40.00+"
+      }
+    ]
+  },
+  {
+    "Name": "Fill In",
+    "Services": [
+      {
+        "Service": "Acrylic (+GEL COLOR $15.00) ",
+        "Regular": "$20.00"
+      },
+      {
+        "Service": "PINK & WHITE",
+        "Regular": "$35.00+"
+      },
+      {
+        "Service": "COLOR POWDER",
+        "Regular": "$35.00+"
+      },
+      {
+        "Service": "LIQUID GEL CLEAR",
+        "Regular": "$32.00+"
+      }
+    ]
+  },
+  {
+    "Name": "Manicure",
+    "Services": [
+      {
+        "Service": "Regular Manicure ",
+        "Regular": "$15.00+",
+        "Description": "The classic, no frills manicure that you know + love?leaves your nails groomed and polished to perfection!"
+      },
+      {
+        "Service": "Happy Deluxe Manicure",
+        "Regular": "$22.00+",
+        "Description": "Delight yourself with our deluxe manicure! A regular manicure along wit a hand exfoliation, ultra soft hand cream. butter scrub and nails remedy. it will leave you feeling young and revtalized!"
+      },
+      {
+        "Service": "Gel Manicure (+French $5)",
+        "Regular": "$30.00+",
+        "Description": "Enjoy the benefits of chip-resistant gel polish that?requires no drying time."
+      },
+      {
+        "Service": "SNS Manicure",
+        "Regular": "$38.00+",
+        "Description": "A healthier, lightweight alternative to acrylic that?allows your nails to breathe with a calcium and vitamin?E fortified powder."
+      }
+    ]
+  },
+  {
+    "Name": "Pedicure",
+    "Services": [
+      {
+        "Service": "Classic Spa Pedicure ",
+        "Description": "A refreshing soak * Nail re-shape and trim cuticle * heel exfoliation * Herbal lotion massage & towel treatment. Add $5 for Cullus remove or Sugat scrub "
+      },
+      {
+        "Service": "Essential Pedicure",
+        "Regular": "$38.00+",
+        "Description": "A refreshing soak * Nail re-shape and trim cuticle * Callus remover * heel exfoliation * Gentle exfoliation with Salt glow gel exfoliate or Citrus Sugar scrub * 10 mins Herbal lotion or Cucumber heel therapy massage * Hot stone and towel treatment. "
+      },
+      {
+        "Service": "Royal Pedicure ",
+        "Regular": "$45.00+",
+        "Description": "A refreshing soak * Nail re-shape and trim cuticle * Callus remover * heel exfoliation * Gentle exfoliation with Citrus Sugar scrub or salt glow gel exfoliate * Paraffin dip for rehydrate and detoxify * 12 mins Cucumber heel therapy massage, Hot stone & towel treatment. "
+      },
+      {
+        "Service": "Volcano Spa Pedicure ",
+        "Regular": "$57.00+",
+        "Description": "*All products stated below are Certified organic brand* Detox Volcano Crystal with moisturizing aloe Vera and mood- enhancing fragrance, to accelerate the detox activator. Callus remove and exfoliating with sugar scrub clears away dead skin and reveals newer looking skin. Collagen Cream Mask cleanses and tightens pores. Collagen starts nourish skin for greater elasticity and beauty. And then 20 minutes Massage with Collagen massage Lotion for deeply moisturizes as the collagen replenishes skin for a beautiful, youthful glow with a silky soft finish. "
+      },
+      {
+        "Service": "Ultimate Spa Pedicure",
+        "Regular": "$62.00+",
+        "Description": "*Lavender products, Dragon Fruit flavors are certified organic brand by BCL* Rosemary Mint-Hydro-therapy-salt * Callus remover * heel exfoliation and Sugar scrub exfoliating skin with natural sugar suspended in a precious blend of certified organic brand. Shea butter mint mask then Nail re-shape and cuticle trim while Shea butter mint mask soften skin then apply Warm paraffin for rehydrate and detoxify and 25 minutes massage with Hydration/Dragon fruit lotion extract to deliver vitamins and antioxidants then hot stone and towel treatment. "
+      },
+      {
+        "Service": "Premium Jelly spa Pedicure",
+        "Regular": "$75.00+",
+        "Description": "*Jelly Aloe Vera is certified organic brand by USL US SKIN LAB* Aloe Vera is renowned across the world for its many skincare benefit. Due to its nutritional and antioxidant properties, it repairs and renews. Aloe Vera high content of beta-carotene, Vitamins C and E improves the skins firmness and leaves it smooth and hydrated. Jelly Pedi Aloe Vera will exfoliate the legs and feet while leaving it supple and moisturized. You will enjoy 25 mins massage therapy of this 5 step Aloe Vera. "
+      }
+    ]
+  },
+  {
+    "Name": "Children Under 10",
+    "Services": [
+      {
+        "Service": "MINI PEDICURE",
+        "Regular": "$18.00"
+      },
+      {
+        "Service": "MINI MANICURE",
+        "Regular": "$10.00"
+      },
+      {
+        "Service": "COLORED LIQUID GEL",
+        "Regular": "$40.00+"
+      }
+    ]
+  },
+  {
+    "Name": "Waxing",
+    "Services": [
+      {
+        "Service": "Chest ",
+        "Regular": "$30 & up"
+      },
+      {
+        "Service": "Full Back ",
+        "Regular": "$40 & up"
+      },
+      {
+        "Service": "Upper Lips",
+        "Regular": "$8.00+"
+      },
+      {
+        "Service": "Eye Brow ",
+        "Regular": "$12.00+",
+        "Description": ""
+      },
+      {
+        "Service": "Chin ",
+        "Regular": "$10.00+"
+      },
+      {
+        "Service": "Under Arm ",
+        "Regular": "$20 & up"
+      },
+      {
+        "Service": "Bikini ",
+        "Regular": "$30 & up"
+      },
+      {
+        "Service": "Brazilian Bikini ",
+        "Regular": "$50 & up"
+      }
+    ]
+  },
+  {
+    "Name": "Additional Services",
+    "Services": [
+      {
+        "Service": "PARAFFIN HAND TREATMENT",
+        "Regular": "$6.00"
+      },
+      {
+        "Service": "PARAFFIN FOOT TREATMENT",
+        "Regular": "$8.00"
+      },   {
+        "Service": "POLISH CHANGE",
+        "Regular": "$10.00"
+      },
+      {
+        "Service": "GEL POLISH CHANGE",
+        "Regular": "$20.00"
+      },
+      {
+        "tag": "cat-designs",
+        "Service": "NAIL DESIGN",
+        "Regular": "$5.00+"
+      },
+      {
+        "Service": "NAIL REPAIR",
+        "Regular": "$3.00+"
+      },
+      {
+        "Service": "SEA SALT",
+        "Regular": "$5.00+"
+      },
+      {
+        "Service": "NAIL SOAK OFF",
+        "Regular": "$10.00"
+      },
+      {
+        "Service": "GEL COAT SHINE",
+        "Regular": "$5.00"
+      },
+      {
+        "Service": "CALLUS REMOVAL",
+        "Regular": "$8.00"
+      }
+    ]
+  }
+]
+
