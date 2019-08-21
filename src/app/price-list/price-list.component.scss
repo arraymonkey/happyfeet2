@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
+
+.swiper-wrapper {
+  height: 70vh;
+  font-family: 'Open Sans Condensed', sans-serif;
+  @media only screen and  (max-width: 525px) {
+    h5 {
+      font-size: 1rem;
+    }
+    .col-sm-6 {
+      margin: .5rem 0;
+      padding: 0 -.2rem;
+    }
+
+  }
+}
+
+swiper {
+  padding: 0 2rem;
+
+  h5 {
+    font-size: 1.2rem;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+  }
+
+}
+
+@media only screen and (min-width: 526px) {
+  .col-sm-6 {
+    margin: 1rem 0;
+  }
+
+
+  .swiper-button-next, .swiper-button-prev {
+
+  bottom  :0;
+  }
+
+  .col-sm-6 {
+    padding: 0 5rem;
+  }
+}
+
+
+.button {
+  height: 20px;
+  bottom: 10px;
+}
+
+.panel-group {
+  margin-bottom: 0 !important;
+}
+
+.swiper-button-next, .swiper-button-prev {
+  top: 90%;
+}

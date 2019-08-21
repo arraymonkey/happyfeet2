@@ -1,0 +1,40 @@
+<div class="section section-numbers-2" id="hours">
+  <div class="parallax pattern-image">
+    <img src="assets/images/back.jpg"/>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <div class="description">
+          <div class="title">
+            <h2>Salon's Hours</h2>
+            <div class="separator-container">
+              <div class="separator line-separator">∎</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row text-center p-5">
+      <div class="hours" *ngFor=" let x of hours">
+        <div class="col-xs-6">
+          <h3>{{x.Day}}</h3>
+          <h5>{{x.Hours}}</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section section-contact-2" id="appt">
+  <div class="container">
+    <div class="text-area">
+      <div class="title add-animation animate">
+        <h2>Appointment</h2>
+        <div class="separator-container">
+          <div class="separator line-separator">∎</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

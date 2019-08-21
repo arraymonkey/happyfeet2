@@ -1,0 +1,18 @@
+@import "~slim-select/dist/slimselect.css";
+
+div.hours:last-child {
+  .col-xs-6 {
+    left: 25%;
+  }
+
+}
+
+div.hours * {
+  font-size: 1.5rem;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+}
+
+#appt {
+  height: 100vh;
+}

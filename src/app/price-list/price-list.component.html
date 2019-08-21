@@ -1,0 +1,34 @@
+<div class="section section-we-do-1 radu" id="price">
+  <div class="text-area">
+    <div class="container">
+      <div class="row">
+        <div class="title add-animation animate">
+          <h2>Services
+          </h2>
+          <div class="separator-container">
+            <div class="separator line-separator">⌘</div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <swiper [config]="config">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide" *ngFor="let x of piceList">
+              <h3 style="text-align: center">{{x.Name}}</h3>
+              <div class="row p-15">
+                <div class=" col-xs-12 col-sm-6 text-uppercase text-center"  *ngFor="let i of x.Services">
+                  <h5 style="display: inline-block; float: left">{{i.Service}}</h5>
+                  <h5 style="display: inline-block; float: right; color: #818181">{{i.Regular}}</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-pagination"></div>
+          <div class="button swiper-button-next"></div>
+          <div class="button swiper-button-prev"></div>
+        </swiper>
+
+      </div>
+    </div>
+  </div>
+</div>
